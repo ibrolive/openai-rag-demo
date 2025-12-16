@@ -1,0 +1,113 @@
+{
+    "$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+    "CreationDate" : "2025-12-15T09:43:43.427-00:00",
+    "Sources" :
+    [
+        {
+            "Packages" :
+            [
+                {
+                    "PackageIdentifier" : "Microsoft.Office"
+                },
+                {
+                    "PackageIdentifier" : "Microsoft.OneDrive"
+                },
+                {
+                    "PackageIdentifier" : "Microsoft.Azd"
+                },
+                {
+                    "PackageIdentifier" : "Microsoft.Edge"
+                },
+                {
+                    "PackageIdentifier" : "Dell.DisplayAndPeripheralManager"
+                },
+                {
+                    "PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
+                },
+                {
+                    "PackageIdentifier" : "Microsoft.PurviewInformationProtection"
+                },
+                {
+                    "PackageIdentifier" : "Python.Launcher"
+                },
+                {
+                    "PackageIdentifier" : "Microsoft.RemoteHelp"
+                },
+                {
+                    "PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8"
+                },
+                {
+                    "PackageIdentifier" : "Bruno.Bruno"
+                },
+                {
+                    "PackageIdentifier" : "Git.Git"
+                },
+                {
+                    "PackageIdentifier" : "Google.Chrome.EXE"
+                },
+                {
+                    "PackageIdentifier" : "Hashicorp.Terraform"
+                },
+                {
+                    "PackageIdentifier" : "Helm.Helm"
+                },
+                {
+                    "PackageIdentifier" : "Kubernetes.kubectl"
+                },
+                {
+                    "PackageIdentifier" : "Microsoft.Azure.Kubelogin"
+                },
+                {
+                    "PackageIdentifier" : "Notepad++.Notepad++"
+                },
+                {
+                    "PackageIdentifier" : "Postman.Postman"
+                },
+                {
+                    "PackageIdentifier" : "Schniz.fnm"
+                },
+                {
+                    "PackageIdentifier" : "Zoom.Zoom.EXE"
+                },
+                {
+                    "PackageIdentifier" : "Mirantis.Lens"
+                },
+                {
+                    "PackageIdentifier" : "Python.Python.3.11"
+                },
+                {
+                    "PackageIdentifier" : "Microsoft.VisualStudioCode"
+                },
+                {
+                    "PackageIdentifier" : "Canonical.Ubuntu"
+                },
+                {
+                    "PackageIdentifier" : "Microsoft.Teams"
+                },
+                {
+                    "PackageIdentifier" : "Microsoft.AppInstaller"
+                },
+                {
+                    "PackageIdentifier" : "Microsoft.UI.Xaml.2.7"
+                },
+                {
+                    "PackageIdentifier" : "Microsoft.UI.Xaml.2.8"
+                },
+                {
+                    "PackageIdentifier" : "Microsoft.VCLibs.Desktop.14"
+                },
+                {
+                    "PackageIdentifier" : "Microsoft.WindowsTerminal"
+                }
+            ],
+            "SourceDetails" :
+            {
+                "Argument" : "https://cdn.winget.microsoft.com/cache",
+                "Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+                "Name" : "winget",
+                "Type" : "Microsoft.PreIndexed.Package"
+            }
+        }
+    ],
+    "WinGetVersion" : "1.12.350"
+}
