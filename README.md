@@ -11,7 +11,17 @@ To access the app, follow the deployment steps [here](./api/azure-search-openai-
 <details>
 <summary>expand/collapse</summary>
 
-![Architecture Diagram](./architecture/app-architecture.drawio.png)
+Below is the architectural diagram of this project:
+
+<img src="./architecture/app-architecture.drawio.png" alt="Architecture Diagram" width="85%">
+
+Below is a summary of how Retreival Augmented Generation (RAG) generally works:
+
+<img src="./architecture/rag-summary.webp" alt="RAG Summary" width="85%">
+
+Below is a diagram of how ingestion generally works in RAG:
+
+<img src="./architecture/rag-ingestion.png" alt="RAG Ingestion" width="85%">
 
 </details>
 
